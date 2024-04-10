@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T14:24:10.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.0" etag="RE3MttjoZKT2TznVPohH" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T14:28:14.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YuDkFL-qTVa6qiTdhfoE" version="24.2.0" type="github">
   <diagram name="Page-1" id="MSrbk9XG2osDdSBR9z4o">
-    <mxGraphModel>
+    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="210" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-4" value="Rabbit Hop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCELhKGQm6DUWcKKaq7p-5" target="QCELhKGQm6DUWcKKaq7p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCELhKGQm6DUWcKKaq7p-5" target="QCELhKGQm6DUWcKKaq7p-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCELhKGQm6DUWcKKaq7p-5" target="QCELhKGQm6DUWcKKaq7p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCELhKGQm6DUWcKKaq7p-5" target="QCELhKGQm6DUWcKKaq7p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCELhKGQm6DUWcKKaq7p-5" target="QCELhKGQm6DUWcKKaq7p-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-5" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-6" value="Start Game" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-7" value="Navigate Rabbit" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-8" value="Quit Game" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-9" value="See Leaderboard" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCELhKGQm6DUWcKKaq7p-10" value="Restart Game" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
